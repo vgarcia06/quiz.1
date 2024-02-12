@@ -1,4 +1,28 @@
+  
+  
+  body  {
+  background-image:url("wallpaper3.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+}
+  
 h2 {
-style="background-color:powderblue;">This is a heading
+	color:darkblue;
+		text-align:center;
+		
 }
 
+h1 {
+	 
+	 text-align:center;
+}
+div{
+	$("p").hide();
+	
+}
+
+p{
+	
+	text-align:center;
+}
