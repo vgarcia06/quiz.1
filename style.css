@@ -7,22 +7,96 @@
   background-attachment: scroll;
 }
   
-h2 {
+h1 {
 	color:darkblue;
 		text-align:center;
 		
 }
 
-h1 {
-	 
+h2{
+	color:  #468b84; //green color 
+	text-align:center;
+}
+h3 {
+	 color:gold;
 	 text-align:center;
 }
-div{
-	$("p").hide();
+
+h4 {
+	text-align:center;
+	color:powderblue;
+}
+
+h5{
 	
+	text-align:center;
+	color:powderblue;
+}
+
+div {
+	border-radius: 25px;
+  border: 2px solid white;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  background-color: darkcyan;
 }
 
 p{
 	
+	color:limegreen;
 	text-align:center;
+	
+	display:none;
+}
+.button {
+  border: 2px solid #000000;
+  border-radius: 25px;
+  color: black;
+  padding: 7px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 4px 2px;
+  cursor: pointer;
+  transition-duration: 0.8s;
+  background-color: #940a47; 
+  color: white; 
+  border: 2px solid #000000;
+}
+.button:hover {
+  background-color: #3ad947;
+  color: black;
+}
+
+.button2 {
+  background-color: #940a47; 
+  color: white; 
+  border: 2px solid #000000;
+}
+
+.button3 {
+  background-color: #940a47; 
+  color: white; 
+  border: 2px solid #000000;
+}
+
+.button4 {
+  background-color: #940a47; 
+  color: white; 
+  border: 2px solid #000000;
+}
+
+.button5 {
+  background-color: #940a47; 
+  color: white; 
+  border: 2px solid #000000;
+}
+
+.button6 {
+  background-color: #940a47; 
+  color: white; 
+  border: 2px solid #000000;
 }
